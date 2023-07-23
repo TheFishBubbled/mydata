@@ -1,0 +1,1 @@
+scores_koniq10k_clip_rn50_test.csv filter=lfs diff=lfs merge=lfs -text
